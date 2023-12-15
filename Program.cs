@@ -14,7 +14,7 @@ class Program
         p.x = 1;
         p.y = 2;
 
-        Console.WriteLine(p.y);
-        Console.WriteLine(p.x);
+        
+        Console.WriteLine($"X: {p.x} | Y: {p.y}");
     }
 }
